@@ -1,4 +1,4 @@
 interface:
   display_name: "Meal Planner"
   short_description: "Meal plans, macros, prep, and check-ins"
-  default_prompt: "Use $meal-planner to create a practical weekly meal prep plan with calories, macros, and a shopping list."
+  default_prompt: "Use $meal-planner: collect missing profile/safety first, then create calorie/macro targets, meal prep, shopping list."
